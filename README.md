@@ -1,3 +1,4 @@
+- Navigation PR Test
 - Homepage PR Test
 # Project Documentation
 ## Installation
