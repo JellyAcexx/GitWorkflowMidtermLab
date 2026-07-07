@@ -5,6 +5,8 @@
 Run `git clone` to get started.
 ## Contributors
 - JellyAcexx
+- Lira Angela (Collaborator)
+- Documentation PR Test
 - Lira Angela (Collaborator)    
 This line is for main branch testing.
 
